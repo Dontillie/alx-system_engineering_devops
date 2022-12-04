@@ -1,0 +1,8 @@
+print('please input your attitude height in feet')
+input(int())
+if height> 10 k feet :
+print('turn around')
+if height<5000 feet :
+print('bring to 1000 feet')
+if height<1000 feet :
+print('start landing')
